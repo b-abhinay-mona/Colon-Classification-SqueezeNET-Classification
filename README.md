@@ -27,8 +27,8 @@ Dataset Sources:
 
 ### Sample Images
 <p align="center">
-  <img src="images/colon_cancer_sample.jpeg" alt="Colon Adenocarcinoma" width="200">
-  <img src="images/colon_normal_sample.jpeg" alt="Colon Normal Tissue" width="200">
+  <img src="images/colonca991.jpeg" alt="Colon Adenocarcinoma" width="200">
+  <img src="images/colonn947.jpeg" alt="Colon Normal Tissue" width="200">
 </p>
 
 <p align="center"><i>Figure 1: Example histopathological images from the dataset</i></p>
@@ -54,7 +54,7 @@ DRCS-Net (Dilated Residual Colon SqueezeNet) enhances SqueezeNet through:
 
 ### Architecture Workflow Diagram
 <p align="center">
-  <img src="images/block_diagram.jpg" width="800">
+  <img src="images/BLOCK DIAGRAM (6).jpg" width="800">
 </p>
 
 <p align="center"><i>Figure 2: Model training and inference workflow</i></p>
@@ -66,7 +66,7 @@ DRCS-Net (Dilated Residual Colon SqueezeNet) enhances SqueezeNet through:
 The proposed DRCS-Net-V3 variant achieved the highest performance among all tested models.
 
 <p align="center">
-  <img src="images/results_table.jpeg" width="500">
+  <img src="images/table.jpeg" width="500">
 </p>
 
 <p align="center"><i>Table 1: Performance comparison of model variants</i></p>
